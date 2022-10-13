@@ -1,0 +1,13 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+  height: 100vh;
+}
+
+.tema-claro{
+  background-color: #ffff;
+}
+.tema-oscuro{
+  background-color: #242424;
+}
